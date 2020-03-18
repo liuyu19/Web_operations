@@ -157,7 +157,7 @@ CPP: In the event of a vehicular collision, a company assigned representative wi
 CPP：万一发生车辆碰撞，公司指派的代表将寻求查明所涉各方财产的损害程度和原因。一旦我们的代表获得使我们了解因果关系的信息，我们可能会分配也可能不会分配适当的货币补偿。最终的决定可能会出现以下选择之一：索赔未获批准并被指定为拒绝状态，索赔的状态不明确，在进一步处理之前将需要其他信息，部分索赔已获批准并且减免了付款。分配和签发，或者索赔已完全批准，并且分配了总索赔付款。
 
 
-**√**   Easier to understand更易理解
+**√**   Easier to understand更易理解  
 Claims Processing Procedure (CPP): If you have a car accident, our agent will investigate. Findings will determine any claim payment. This could result in:  
 索赔处理程序（CPP）：如果您发生车祸，我们的代理商将进行调查。调查结果将确定任何索赔款项。这可能导致：
 
