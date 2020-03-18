@@ -1,6 +1,6 @@
 # 自制WAI指导原则中文版
-（由[刘心如：学号183014132](https://github.com/LXRjiayou)，[彭晴：学号181052067](https://github.com/aqiangwansui)，[刘宇：学号181043067](https://github.com/liuyu19)共同完成）
-分工如下，刘心如摘要，提供信息丰富的独特页面标题，
+（由[刘心如：学号183014132](https://github.com/LXRjiayou)，[刘宇：学号181043067](https://github.com/liuyu19)，[彭晴：学号181052067](https://github.com/aqiangwansui)共同完成）
+分工如下，刘心如负责**摘要**，**提供信息丰富的独特页面标题**，**使用标题去传达意义和结构**；刘宇负责**让链接文本拥有意义**，**为图像编写有意义的替代文本**，**创建多媒体文字记录和字幕** 以及本文的排版与图片拷贝；彭晴负责****，****，****。
 # Writing for Web Accessibility  
 # 为Web可访问性编写
 in Tips for Getting Started入门提示
@@ -29,7 +29,7 @@ Keep content clear and concise
 For each web page, provide a short title that describes the page content and distinguishes it from other pages. The page title is often the same as the main heading of the page. Put the unique and most relevant information first; for example, put the name of the page before the name of the organization. For pages that are part of a multi-step process, include the current step in the page title.  
 对于每个网页，提供一个简短的标题来描述页面内容并将其与其他页面区分开来。页面标题通常与页面的主标题相同。将唯一和最相关的信息放在第一位；例如，将页面名称放在组织名称之前。对于属于多步处理的页面，要在页面标题中包括当前步骤。  
 
-### Example: Page Titles例子：页面标题
+### Example: Page Titles示例：页面标题
 **√**   Home page title主页标题  
 Space Teddy Inc.太空玩具有限公司  
 
@@ -46,7 +46,7 @@ Buy Your Bear (Step 1 of 3) • Space Teddy Inc.购买你的熊玩具（1-3步�
 Use short headings to group related paragraphs and clearly describe the sections. Good headings provide an outline of the content.  
 使用简短的标题分组相关段落，并清楚地描述章节。好的标题能提供内容的大纲。
 
-### Example: Using headings to organize content例子：使用标题去组织内容  
+### Example: Using headings to organize content示例：使用标题去组织内容  
 **×**  Lack of headings缺少标题  
 ![Lack of headings](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/headings-poor.png)  
 
@@ -56,57 +56,70 @@ Use short headings to group related paragraphs and clearly describe the sections
 
 #### More Information更多信息
 * WCAG
- * Headings and Labels 2.4.6 (Understanding 2.4.6)标题和标签2.4.6 (理解2.4.6)
- * Section Headings 2.4.10 (Understanding 2.4.10)章节标题2.4.10 (理解2.4.10)
- * Info and Relationships 1.3.1 (Understanding 1.3.1)信息和关系1.3.1 (理解1.3.1)
+ * Headings and Labels 2.4.6 (Understanding 2.4.6)  
+   标题和标签2.4.6 (理解2.4.6)
+ * Section Headings 2.4.10 (Understanding 2.4.10)  
+   章节标题2.4.10 (理解2.4.10)
+ * Info and Relationships 1.3.1 (Understanding 1.3.1)  
+   信息和关系1.3.1 (理解1.3.1)
 * User Story用户故事
- * How a screen reader user uses headings to navigate电子书用户怎样使用标题去导航
+ * How a screen reader user uses headings to navigate  
+   电子书用户怎样使用标题去导航
 
 ****
-## Make link text meaningful  
-## 让链接文本拥有意义
+## Make link text meaningful  让链接文本拥有意义
 Write link text so that it describes the content of the link target. Avoid using ambiguous link text, such as ‘click here’ or ‘read more’. Indicate relevant information about the link target, such as document type and size, for example, ‘Proposal Documents (RTF, 20MB)’.  
 编写链接文本来描述链接目标的内容。避免使用含糊不清的链接描述文字，例如说“点击这里”或者“了解更多”。注明链接目标的相关信息，例如文档类型和大小。范例：“投标文档(RTF, 20MB)”
 
-### Example: Using link text to describe target page
-**×**  No information
-For more information on device independence, click here.
+### Example: Using link text to describe target page示例：使用链接文本描述目标页面
+**×**  No information无信息
+For more information on device independence, [click here]().   
+ 
+有关设备独立性的更多信息，请[单击此处]()。
 
-**√**  Meaningful information
-Read more about device independence.
+**√**  Meaningful information有意义的信息
+Read more about [device independence]().  
+阅读有关[设备独立性的更多信息]()。
 
-#### More Information
-WCAG
-Link Purpose (In Context) 2.4.4 (Understanding 2.4.4)
-Link Purpose (Link Only) 2.4.9 (Understanding 2.4.9)
+#### More Information更多信息  
+* WCAG
+ * Link Purpose (In Context) 2.4.4 (Understanding 2.4.4)  
+   链接目的（在上下文中）2.4.4（理解2.4.4）
+ * Link Purpose (Link Only) 2.4.9 (Understanding 2.4.9)
+   链接目的（仅链接）2.4.9（理解2.4.9）
 ****
-## Write meaningful text alternatives for images
-For every image, write alternative text that provides the information or function of the image. For purely decorative images, there is no need to write alternative text.
+## Write meaningful text alternatives for images为图像编写有意义的替代文本
+For every image, write alternative text that provides the information or function of the image. For purely decorative images, there is no need to write alternative text.  
+对每个图像编写包含图像信息或功能的替代文本。对于纯装饰性图像，无需编写替代文本。
 
-### Example: Using alternative text to communicate important information
- Uninformative
-Charging phone
-Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.
+### Example: Using alternative text to communicate important information示例：使用替代文本传达重要信息
+**×**  Uninformative没有信息  
+![phone_charging](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/phone_charging.png)   
+Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.为手机充电：使用随附的电缆和电源适配器将手机连接至电源插座。  
 
-Alternative text for image: "Charging phone"
+Alternative text for image: "Charging phone"  
+图片的替代文本：“正在为手机充电”
+  
 
- Informative
-Plug cable into the bottom edge of the phone.
-Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.
+**√**  Informative有信息  
+![phone_charging](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/phone_charging.png)
 
-Alternative text for image: "Plug cable into the bottom edge of the phone."
+Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.为手机充电：使用随附的电缆和电源适配器将手机连接至电源插座。  
 
-Alternative text is usually not visible; it is included in this example just so you can see what it is.
+Alternative text for image: "Plug cable into the bottom edge of the phone."  
+图片的替代文本：“将电缆插入电话的底部边缘。”
 
-#### More Information
-WCAG
-Non-text Content 1.1.1 (Understanding 1.1.1)
-Tutorial
-Images
-User Story
-Describes the value of text alternatives to a blind user  
+#### More Information更多信息
+* WCAG
+ * Non-text Content 1.1.1 (Understanding 1.1.1)  
+   非文本内容1.1.1（理解1.1.1）
+* Tutorial讲解
+ * Images图片
+* User Story用户的故事
+ * Describes the value of text alternatives to a blind user  
+   向盲人用户介绍替代文本的价值  
 ****
-## Create transcripts and captions for multimedia
+## Create transcripts and captions for multimedia创建多媒体文字记录和字幕
 For audio-only content, such a podcast, provide a transcript. For audio and visual content, such as training videos, also provide captions. Include in the transcripts and captions the spoken information and sounds that are important for understanding the content, for example, ‘door creaks’. For video transcripts, also include a description of the important visual content, for example ‘Athan leaves the room’.
 
 #### More Information
@@ -116,57 +129,72 @@ Audio Description or Media Alternative (Prerecorded) 1.2.3 (Understanding 1.2.3)
 User Story
 Describes how captions help a deaf student  
 ****
-## Provide clear instructions
-Ensure that instructions, guidance, and error messages are clear, easy to understand, and avoid unnecessarily technical language. Describe input requirements, such as date formats.
+## Provide clear instructions提供清晰的指令
+Ensure that instructions, guidance, and error messages are clear, easy to understand, and avoid unnecessarily technical language. Describe input requirements, such as date formats.  
+确保这些错误的指令、指导和错误的信息是清晰的，便于理解的，和避免不必要的技术性语言。描述输入的需求，比如日期。  
+![part3](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/part3.jpg)
 
-### Example: Instructions communicate what information the user should provide
-Password should be at least six characters with at least one number (0-9).
 
-Password 
-### Example: Error indicates what the problem is and, possibly, how to fix it
- The username 'superbear' is already in use.
- The password needs to include at least one number.
-#### More Information
-WCAG
-Labels or Instructions 3.3.2 (Understanding 3.3.2)
-User Story
-Describes simple instructions help someone with learning difficulties
 ****
-## Keep content clear and concise
-Use simple language and formatting, as appropriate for the context.
+## Keep content clear and concise保持内容的清晰和简洁
+* Use simple language and formatting, as appropriate for the context.  
+在适当的情况下，使用简洁的语言和排版。  
+* Write in short, clear sentences and paragraphs.  
+写简单明了的句子和段落。  
+* Avoid using unnecessarily complex words and phrases. Consider providing a glossary for terms readers may not know.  
+避免使用不必要且复杂的单词和短语，提供一个术语表给一些不知道的读者。  
+* Expand acronyms on first use. For example, Web Content Accessibility Guidelines (WCAG).  
+首次使用时请缩写。例如，Web内容可访问性指南（WCAG）
+* Consider providing a glossary for terms readers may not know.  
+提供一个术语表给一些不知道的读者
+* Use list formatting as appropriate.  
+适当使用列表格式
+* Consider using images, illustrations, video, audio, and symbols to help clarify meaning.  
+考虑使用一些图片、插图、视频、音频和符号来帮助阐明意思。 
 
-Write in short, clear sentences and paragraphs.
-Avoid using unnecessarily complex words and phrases. Consider providing a glossary for terms readers may not know.
-Expand acronyms on first use. For example, Web Content Accessibility Guidelines (WCAG).
-Consider providing a glossary for terms readers may not know.
-Use list formatting as appropriate.
-Consider using images, illustrations, video, audio, and symbols to help clarify meaning.
-### Example: Making content readable and understandable
- Unnecessarily complex
-CPP: In the event of a vehicular collision, a company assigned representative will seek to ascertain the extent and cause of damages to property belonging to all parties involved. Once our representative obtains information that allows us to understand the causality, we may or may not assign appropriate monetary compensation. The resulting decision may occasion one of the following options: the claim is not approved and is assigned a rejected status, the status of the claim is ambiguous and will require additional information before further processing can occur, the claim is partially approved and reduced payment is assigned and issued, or claim is fully approved and total claim payment is assigned and issued.
-
- Easier to understand
-Claims Processing Procedure (CPP): If you have a car accident, our agent will investigate. Findings will determine any claim payment. This could result in:
-
-Approved claim - full payment
-Partially approved claim - reduced payment
-Undetermined claim - more information needed
-Rejected claim - no payment
+### Example: Making content readable and understandable示例：
+**×**   Unnecessarily complex不必要的复杂  
+CPP: In the event of a vehicular collision, a company assigned representative will seek to ascertain the extent and cause of damages to property belonging to all parties involved. Once our representative obtains information that allows us to understand the causality, we may or may not assign appropriate monetary compensation. The resulting decision may occasion one of the following options: the claim is not approved and is assigned a rejected status, the status of the claim is ambiguous and will require additional information before further processing can occur, the claim is partially approved and reduced payment is assigned and issued, or claim is fully approved and total claim payment is assigned and issued.  
+CPP：万一发生车辆碰撞，公司指派的代表将寻求查明所涉各方财产的损害程度和原因。一旦我们的代表获得使我们了解因果关系的信息，我们可能会分配也可能不会分配适当的货币补偿。最终的决定可能会出现以下选择之一：索赔未获批准并被指定为拒绝状态，索赔的状态不明确，在进一步处理之前将需要其他信息，部分索赔已获批准并且减免了付款。分配和签发，或者索赔已完全批准，并且分配了总索赔付款。
 
 
-#### More Information
-WCAG
-Reading Level 3.1.5 (Understanding 3.1.5)
-Unusual Words 3.1.3 (Understanding 3.1.3)
-Abbreviations 3.1.4 (Understanding 3.1.4)
-User Story
-User with reading disabilities benefits from easy to read text
+**√**   Easier to understand更易理解
+Claims Processing Procedure (CPP): If you have a car accident, our agent will investigate. Findings will determine any claim payment. This could result in:  
+索赔处理程序（CPP）：如果您发生车祸，我们的代理商将进行调查。调查结果将确定任何索赔款项。这可能导致：
+
+* Approved claim - full payment  
+批准的索赔-全额付款  
+* Partially approved claim - reduced payment  
+部分批准的索赔-减少付款  
+* Undetermined claim - more information needed   
+未确定的索偿-需要更多信息  
+* Rejected claim - no payment  
+索赔被拒-不付款  
+
+![clear_text_diagram](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/clear_text_diagram.png)
+
+#### More Information更多信息
+* WCAG
+ * Reading Level 3.1.5 (Understanding 3.1.5)  
+   阅读级别3.1.5（理解3.1.5）  
+ * Unusual Words 3.1.3 (Understanding 3.1.3)  
+   不寻常的单词3.1.3（理解3.1.3）  
+ * Abbreviations 3.1.4 (Understanding 3.1.4)  
+   缩写3.1.4（理解3.1.4）  
+* User Story用户的故事
+ * User with reading disabilities benefits from easy to read text  
+   阅读障碍者受益于易于阅读的文本
 ****  
 ****
-### Learn More About Accessibility
-These tips are a few of the things you need to consider for web accessibility. The following resources help you learn why accessibility is important, and about guidelines for making the web more accessible to people with disabilities.
+### Learn More About Accessibility了解更多关于可访问性（的内容）
+These tips are a few of the things you need to consider for web accessibility. The following resources help you learn why accessibility is important, and about guidelines for making the web more accessible to people with disabilities.  
+这些提示是一些你需要进行网络可访问的注意事项，以下资源可以帮助你学习可访问性为什么是重要的，和关于使残障人士更易访问网络的准则。
 
-Accessibility Introduction — Introduces accessibility and provides links to many helpful resources
-Accessibility Principles — An introduction to the WCAG requirements
-How people with disabilities use the web — Real-life examples showing the importance of accessibility for people with disabilities
-How to Meet WCAG (Quick Reference) — customizable reference of all WCAG requirements and techniques
+Accessibility Introduction — Introduces accessibility and provides links to many helpful resources  
+可访问性的介绍——可访问性的介绍和一个提供很多资源的链接。  
+Accessibility Principles — An introduction to the WCAG requirements  
+可访问性的原则——一个介绍WCAG的要求。  
+How people with disabilities use the web — Real-life examples showing the importance of accessibility for people with disabilities  
+残疾人士如何使用网络——现实生活中的例子展示了残疾人无障碍获取的重要性。
+How to Meet WCAG (Quick Reference) — customizable reference of all WCAG requirements and techniques  
+如何满足WCAG（快速参考）——可定制参考所有WCAG要求和技术。  
