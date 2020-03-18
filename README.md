@@ -1,54 +1,67 @@
 # 自制WAI指导原则中文版
-（由[刘心如](https://github.com/LXRjiayou)，[彭晴](https://github.com/aqiangwansui)，[刘宇](https://github.com/liuyu19)共同完成）
-# Writing for Web Accessibility
-in Tips for Getting Started
+（由[刘心如：学号183014132](https://github.com/LXRjiayou)，[彭晴：学号181052067](https://github.com/aqiangwansui)，[刘宇：学号181043067](https://github.com/liuyu19)共同完成）
+分工如下，刘心如摘要，提供信息丰富的独特页面标题，
+# Writing for Web Accessibility  
+# 为Web可访问性编写
+in Tips for Getting Started入门提示
 
-### Summary
-This page introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities. These tips are good practice to help you meet Web Content Accessibility Guidelines (WCAG) requirements. Follow the links to the related WCAG requirements, detailed background in the “Understanding” document, guidance from Tutorials, user stories, and more.
+### Summary摘要
+This page introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities. These tips are good practice to help you meet Web Content Accessibility Guidelines (WCAG) requirements. Follow the links to the related WCAG requirements, detailed background in the “Understanding” document, guidance from Tutorials, user stories, and more.  
+本页介绍了一些基本的注意事项，以帮助您开始编写更便于残疾人访问的Web内容。这些提示是帮助您满足Web内容可访问性准则(WCAG)要求的良好实践。遵循相关WCAG要求的链接、“理解”文档中的详细背景、教程指导、用户故事等等。
 
-### Page Contents
-Provide informative, unique page titles
-Use headings to convey meaning and structure
-Make link text meaningful
-Write meaningful text alternatives for images
-Create transcripts and captions for multimedia
-Provide clear instructions
+### Page Contents页面内容  
+Provide informative, unique page titles  
+提供信息丰富的独特页面标题  
+Use headings to convey meaning and structure  
+使用标题传达意义和结构  
+Make link text meaningful  
+使链接文本有意义  
+Write meaningful text alternatives for images  
+为图像编写有意义的文本选项  
+Create transcripts and captions for multimedia  
+创建多媒体记录和字幕  
+Provide clear instructions  
+提供明确的指示  
 Keep content clear and concise  
+内容清晰简洁    
 ****
-## Provide informative, unique page titles
-For each web page, provide a short title that describes the page content and distinguishes it from other pages. The page title is often the same as the main heading of the page. Put the unique and most relevant information first; for example, put the name of the page before the name of the organization. For pages that are part of a multi-step process, include the current step in the page title.
+## Provide informative, unique page titles提供信息丰富的独特页面标题
+For each web page, provide a short title that describes the page content and distinguishes it from other pages. The page title is often the same as the main heading of the page. Put the unique and most relevant information first; for example, put the name of the page before the name of the organization. For pages that are part of a multi-step process, include the current step in the page title.  
+对于每个网页，提供一个简短的标题来描述页面内容并将其与其他页面区分开来。页面标题通常与页面的主标题相同。将唯一和最相关的信息放在第一位；例如，将页面名称放在组织名称之前。对于属于多步处理的页面，要在页面标题中包括当前步骤。  
 
-### Example: Page Titles
- Home page title
-Space Teddy Inc.
- Page name followed by organization name
-Latest News • Space Teddy Inc.
- Page name including step in a process
-Buy Your Bear (Step 1 of 3) • Space Teddy Inc.
-#### More Information
-WCAG
-Page Titled 2.4.2 (Understanding 2.4.2)
-## Use headings to convey meaning and structure
-Use short headings to group related paragraphs and clearly describe the sections. Good headings provide an outline of the content.
+### Example: Page Titles例子：页面标题
+**√**   Home page title主页标题  
+Space Teddy Inc.太空玩具有限公司  
 
-### Example: Using headings to organize content  
-**×**  Lack of headings
+**√**   Page name followed by organization name页面标题后面跟着组织标题  
+Latest News • Space Teddy Inc.最新消息·太空玩具有限公司  
 
-Illustration of no headings, see below for detailed example
-View inline example
+**√**   Page name including step in a process页面标题包括进程中的步骤   
+Buy Your Bear (Step 1 of 3) • Space Teddy Inc.购买你的熊玩具（1-3步）·太空玩具有限公司  
 
-**√**  Using headings and subheadings  
+#### More Information更多信息
+* WCAG
+ * Page Titled 2.4.2 (Understanding 2.4.2)
+## Use headings to convey meaning and structure使用标题去传达意义和结构
+Use short headings to group related paragraphs and clearly describe the sections. Good headings provide an outline of the content.  
+使用简短的标题分组相关段落，并清楚地描述章节。好的标题能提供内容的大纲。
 
-Illustration of good heading structure, see below for detailed example
-View inline example
+### Example: Using headings to organize content例子：使用标题去组织内容  
+**×**  Lack of headings缺少标题  
+![Lack of headings](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/headings-poor.png)  
 
-#### More Information
-WCAG
-Headings and Labels 2.4.6 (Understanding 2.4.6)
-Section Headings 2.4.10 (Understanding 2.4.10)
-Info and Relationships 1.3.1 (Understanding 1.3.1)
-User Story
-How a screen reader user uses headings to navigate
+  
+**√**  Using headings and subheadings使用标题和副标题  
+![Using headings and subheadings](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/headings-good.png)
+
+#### More Information更多信息
+* WCAG
+ * Headings and Labels 2.4.6 (Understanding 2.4.6)标题和标签2.4.6 (理解2.4.6)
+ * Section Headings 2.4.10 (Understanding 2.4.10)章节标题2.4.10 (理解2.4.10)
+ * Info and Relationships 1.3.1 (Understanding 1.3.1)信息和关系1.3.1 (理解1.3.1)
+* User Story用户故事
+ * How a screen reader user uses headings to navigate电子书用户怎样使用标题去导航
+
 ****
 ## Make link text meaningful  
 ## 让链接文本拥有意义
