@@ -127,11 +127,11 @@ For audio-only content, such a podcast, provide a transcript. For audio and visu
  * Captions (Prerecorded) 1.2.2 (Understanding 1.2.2)  
    字幕（预先录制）1.2.2（理解1.2.2）  
  * Audio Description or Media Alternative (Prerecorded) 1.2.3 (Understanding 1.2.3)  
-   音频描述或媒体替代（预先录制）1.2.3（了解1.2.3）  
+   音频或媒体替代描述（预先录制）1.2.3（了解1.2.3）  
 * User Story  
   用户的故事  
  * Describes how captions help a deaf student  
-   字母如何帮助聋哑学生     
+   字幕如何帮助聋哑学生     
 ****
 ## Provide clear instructions提供清晰的指令
 Ensure that instructions, guidance, and error messages are clear, easy to understand, and avoid unnecessarily technical language. Describe input requirements, such as date formats.  
