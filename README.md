@@ -197,3 +197,27 @@ How people with disabilities use the web — Real-life examples showing the impo
 残疾人士如何使用网络——现实生活中的例子展示了残疾人无障碍获取的重要性。
 How to Meet WCAG (Quick Reference) — customizable reference of all WCAG requirements and techniques  
 如何满足WCAG（快速参考）——可定制参考所有WCAG要求和技术。  
+  
+  
+  
+ 
+
+
+
+****
+****
+****
+****
+更新于2020.3.19，以下内容为刘宇基于WAI原则的网站点评，我选择的网站是[腾讯体育](https://sports.qq.com/)官方网站。  
+我将基于这七点来点评。  
+* **提供信息丰富的独特页面标题**  
+* **使用标题去传达意义和结构**  
+* **让链接文本拥有意义**  
+* **为图像编写有意义的替代文本**  
+* **创建多媒体文字记录和字幕**   
+* **提供清晰的指令**  
+* **保持内容的清晰和简洁**  
+  
+![tc_sport](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/tc_sport.png)
+1.腾讯体育的页面有许多吸引眼球的标题，包含了许多文稿的关键信息，如"[雷霆宣布所有球员均未感染病毒 76人已完成球员检测](https://new.qq.com/rain/a/20200319A039D500)"，提供了有效的信息。  
+2.它是新闻网站，由许多小的标题组成，也做到了**使用标题去传达意义和结构**，分有大标题和小标题，主次分明。
