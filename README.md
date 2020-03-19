@@ -123,11 +123,15 @@ For audio-only content, such a podcast, provide a transcript. For audio and visu
 对于纯音频内容（例如播客），请提供媒介。对于音频和视频内容（例如培训视频），也提供字幕。在成绩单和字幕中包括对理解内容很重要的语音信息和声音，例如“门吱吱作响”。对于视频成绩单，还包括重要视觉内容的描述，例如“ Athan离开房间”。
 
 #### More Information
-WCAG
-Captions (Prerecorded) 1.2.2 (Understanding 1.2.2)
-Audio Description or Media Alternative (Prerecorded) 1.2.3 (Understanding 1.2.3)
-User Story
-Describes how captions help a deaf student  
+* WCAG  
+ * Captions (Prerecorded) 1.2.2 (Understanding 1.2.2)  
+   字幕（预先录制）1.2.2（理解1.2.2）  
+ * Audio Description or Media Alternative (Prerecorded) 1.2.3 (Understanding 1.2.3)  
+   音频描述或媒体替代（预先录制）1.2.3（了解1.2.3）  
+* User Story  
+  用户的故事  
+ * Describes how captions help a deaf student  
+   字母如何帮助聋哑学生     
 ****
 ## Provide clear instructions提供清晰的指令
 Ensure that instructions, guidance, and error messages are clear, easy to understand, and avoid unnecessarily technical language. Describe input requirements, such as date formats.  
