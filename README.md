@@ -119,7 +119,8 @@ Alternative text for image: "Plug cable into the bottom edge of the phone."
    向盲人用户介绍替代文本的价值  
 ****
 ## Create transcripts and captions for multimedia创建多媒体文字记录和字幕
-For audio-only content, such a podcast, provide a transcript. For audio and visual content, such as training videos, also provide captions. Include in the transcripts and captions the spoken information and sounds that are important for understanding the content, for example, ‘door creaks’. For video transcripts, also include a description of the important visual content, for example ‘Athan leaves the room’.
+For audio-only content, such a podcast, provide a transcript. For audio and visual content, such as training videos, also provide captions. Include in the transcripts and captions the spoken information and sounds that are important for understanding the content, for example, ‘door creaks’. For video transcripts, also include a description of the important visual content, for example ‘Athan leaves the room’.  
+对于纯音频内容（例如播客），请提供媒介。对于音频和视频内容（例如培训视频），也提供字幕。在成绩单和字幕中包括对理解内容很重要的语音信息和声音，例如“门吱吱作响”。对于视频成绩单，还包括重要视觉内容的描述，例如“ Athan离开房间”。
 
 #### More Information
 WCAG
@@ -218,6 +219,13 @@ How to Meet WCAG (Quick Reference) — customizable reference of all WCAG requir
 * **提供清晰的指令**  
 * **保持内容的清晰和简洁**  
   
-![tc_sport](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/tc_sport.png)
+![tc_sport](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/tc_sport.png)  
 1.腾讯体育的页面有许多吸引眼球的标题，包含了许多文稿的关键信息，如"[雷霆宣布所有球员均未感染病毒 76人已完成球员检测](https://new.qq.com/rain/a/20200319A039D500)"，提供了有效的信息。  
-2.它是新闻网站，由许多小的标题组成，也做到了**使用标题去传达意义和结构**，分有大标题和小标题，主次分明。
+2.它是新闻网站，由许多小的标题组成，也做到了**使用标题去传达意义和结构**，分有大标题和小标题，主次分明。   
+
+![tc_sport2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/image/tc_sport2.png)   
+3.它的头部和底部都有许多链接文本，且描述的十分详细。  
+4.**为图像编写有意义的替代文本**，腾讯体育的网站图片都有认真的命名，当这个网站并没有太多的专业描述性的图表，所以我没法对着条标准进行评判。  
+5.创建多媒体文字记录和字幕，这一条标准腾讯体育完成的一般，有许多图片视频，但并不是都含有描述和字幕，特别是一些外国的体育新闻。 
+6.**提供清晰的指令**，这一点在登录和*腾讯体育会员*充值等页面都非常清晰，绝对不会漏冲了会员。  
+7.相较来说网页还是比较清爽，有侧边栏和导航栏，大小标题也十分清晰，图片视频占网页的比例也较为合理，保持了内容的清晰和简洁。
