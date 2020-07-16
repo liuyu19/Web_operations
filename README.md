@@ -56,7 +56,9 @@ wordpress架站的成本较低；
 利用site24X7等插件可以很好地监控网站状况，规避风险；  
 
 ##### 对网站的希望：
-能够分享给身边的同学有关于联合国可持续发展目标的相关消息，并且是易用好用的网站，能真正帮助到需要的同学，呼吁身边的人真正开始关注生态向善等可持续发展的内容。   
+能够分享给身边的同学有关于联合国可持续发展目标的相关消息，并且是易用好用的网站，能真正帮助到需要的同学，呼吁身边的人真正开始关注生态向善等可持续发展的内容。  
+##### 网站地图：
+![graph](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/graph.png)  
 ****
 ## 二、图库版权
 图片均来自[联合国可持续发展网站](https://www.un.org/sustainabledevelopment/zh/news/communications-material/)的宣传资料部分，unleash网站图片来自[官网](https://unleash.org/)，其他的图片均为自己页面的截图，暂不涉及版权。   
@@ -69,6 +71,7 @@ wordpress架站的成本较低；
 ## 五、平面设计1. 网站配色，背景及字体的对比度及可读性 
 **** 
 ## 六、平面设计2. Animate it! 及Siteorigin  
+![]()
 ****
 ## 七、云端架站1.（域名实践） 
 **网站域名:liuyu20.top  
