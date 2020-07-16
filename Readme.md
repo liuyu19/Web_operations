@@ -95,7 +95,9 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 ![copy](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/copy.png)
 ****
 ## 十一、站长工具A 
-
+![baidu](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/baidu.png)
+![baidu1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/baidu1.png)
+由图可知，百度平台已成功收录我两篇文章，且数量还在增加中。
 **** 
 ## 十二、站长工具B  
 ****
