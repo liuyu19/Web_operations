@@ -64,10 +64,15 @@
 ## 六、平面设计2. Animate it! 及Siteorigin  
 ****
 ## 七、云端架站1.（域名实践） 
+网站域名:liuyu20.top  
+网址：https://liuyu20.top/
+域名购于阿里云。
 **** 
 ## 八、云端架站2.（wordfence）
-![wordfence1]()
-![wordfence2]()
+![wordfence1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/wordfence1.png)
+![wordfence2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/wordfence2.png)
+wordfence的监控使我了解到我的网站的安全性能只达60%，如果网站进一步发展会考虑升级到专业版拥有更高的安全性能。网站平均被一天会被攻击6000000多次，但是都被wordfence阻止了。  
+其次，从防火墙提供的数据中，可以看出我网站防复杂攻击的性能只达48%，普通攻击尚且可以支撑，但无法应对较严重的攻击与问题。在现有模式下，Wordfence防火墙会主动阻止与已知攻击模式匹配的请求，并主动保护我的站点免受攻击者的攻击。
 ****
 ## 九、云端架站3. （site24x7） 
 **** 
