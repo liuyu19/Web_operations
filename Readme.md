@@ -75,8 +75,14 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 其次，从防火墙提供的数据中，可以看出我网站防复杂攻击的性能只达48%，普通攻击尚且可以支撑，但无法应对较严重的攻击与问题。在现有模式下，Wordfence防火墙会主动阻止与已知攻击模式匹配的请求，并主动保护我的站点免受攻击者的攻击。
 ****
 ## 九、云端架站3. （site24x7） 
+![site1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/site1.png)
+![site2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/site2.png)
+我在site24X7中添加了监视器，八个监视位置为：洛杉矶，亚特兰大，多伦多，迈阿密，波士顿，圣何塞，上海，香港。在site24X7中，首先我了解到我的网站在这八个地方的响应时间和速度，其中圣何塞地区的访问速度最慢，洛杉矶和波士顿的访问速度较快。  
+其次，我发现我的网站偶尔会有停机的情况，而网站会实时监控发邮件到我的邮箱，而恢复的时候也会提醒我网站已经恢复，所以我可以在网站停机无法访问的时候得知，从而采取相应的应对措施。之后每五分钟检测一次，均可访问，可用性较强，没有问题。
 **** 
 ## 十、云端架站4. 网站备份  
+已做完：数据库（sql文件）；通过wordpress后台导出工具导到本地的文件；wp-config.php备份本地；  
+![copy](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/copy.png)
 ****
 ## 十一、站长工具A 
 **** 
@@ -91,5 +97,8 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 ## 十六、定制化  
 ![]()
 ****
-## 加分项、使用https且开启多站点  
+## 加分项、使用https且开启多站点
+已完成：使用https且开启多站点
+![https](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/https.png)  
+![add](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/add.png)
 ****
