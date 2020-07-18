@@ -94,12 +94,15 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 已做完：数据库（sql文件）；通过wordpress后台导出工具导到本地的文件；wp-config.php备份本地；  
 ![copy](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/copy.png)
 ****
-## 十一、站长工具A 
+## 十一、站长工具A（百度）
 ![baidu](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/baidu.png)
 ![baidu1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/baidu1.png)
 由图可知，百度平台已成功收录我两篇文章，且数量还在增加中。
 **** 
-## 十二、站长工具B  
+## 十二、站长工具B（谷歌）
+![google](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/google.png)
+![google1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/google1.png)
+由图可知，谷歌平台已成功收录我的网页和文章，且数量还在增加中。  
 ****
 ## 十三、SEO优化  
 ****
