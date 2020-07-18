@@ -105,6 +105,26 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 由图可知，谷歌平台已成功收录我的网页和文章，且数量还在增加中。  
 ****
 ## 十三、SEO优化  
+方法一：提交链接在baidu的网站管理中添加本人网站里的url   
+每一个平台我都有手动提交，这里的截图以bing为例：  
+![bing1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/bing1.png)  
+  
+提交前：  
+![google1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/google1.png)  
+由图可得知我在手动提交url并且等待网站的收录。  
+成效：  
+谷歌搜索引擎增加了两条相关文章的信息。  
+![google2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/google2.png)  
+
+方法二：关键词优化
+在这之前我的文章排版和关键词都有问题，但是我之后针对这个问题进行了修改，让SEO达到了标准  
+![seo](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/seo.png)    
+![seo2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/seo2.png)  
+
+方法三：Jetpact自带的监控功能
+利用Jetpack自带的监控功能我可以很好的观察到网站的浏览量等动向。
+![jetpack](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/jetpack.png) 
+![jetpack1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/jetpack1.png) 
 ****
 ## 十四、用户研究成果及设计改进：方法A  
 ****
