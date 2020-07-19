@@ -67,9 +67,9 @@ wordpress架站的成本较低；
 网站采取的**极简**风格符合联合国可持续发展的主基调、配色采用黄色和白色，突出年轻人生机勃勃，充满活力，愿意去拯救世界、而图片风格的选择主要采取一些极简的图片和logo，符合可持续发展的内容和主题。  
 ****
 ## 四、云端架站/运维图文文章  
-文章一：[国内外主流云主机平台对比](https://liuyu20.top/index.php/2020/07/13/guo-nei-wai-zhu-liu-yun-zhu-ji-ping-tai-dui-bi/)  
-文章二：[]()  
-文章三：[]()
+文章一：[保姆式教学：教您Github-Education pack的申请流程](https://liuyu20.top/index.php/2020/07/19/baomushijiaoxuejiaoningithubeducationpackdeshenqingliucheng/)  
+文章二：[国内外主流云主机平台对比分析（用于架设个人的wordpress网站）](https://liuyu20.top/index.php/2020/07/13/guoneiwaizhuliuyunzhujipingtaiduibifenxiyongyujiashegerendew/)  
+文章三：[利用宝塔系统基于阿里云服务器架站](https://liuyu20.top/index.php/2020/07/19/liyongbaotaxitongjiyualiyunfuwuqijiazhan/)
 ****
 ## 五、平面设计1. 网站配色，背景及字体的对比度及可读性  
 网站的配色采取生机勃勃的黄色和白色，背景多为白色，而重点信息例如按键会用橙色进行填充。  
@@ -81,10 +81,14 @@ wordpress架站的成本较低；
 ![texiao](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/texiao.png)
 **** 
 ## 六、平面设计2. Animate it! 及Siteorigin  
-
-![]()  
+ Animate it! 整个网页的每一张图片都有添加特效共计六处，下图为示例。
+![animate](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/animat.png)  
 网页的底部我采用了不规则的弧形，为网站增加设计感 
-![web2]((https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/web2.png)
+![web3](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/web3.png)
+Site origin的三个网页：  
+文章一：[保姆式教学：教您Github-Education pack的申请流程](https://liuyu20.top/index.php/2020/07/19/baomushijiaoxuejiaoningithubeducationpackdeshenqingliucheng/)  
+文章二：[国内外主流云主机平台对比分析（用于架设个人的wordpress网站）](https://liuyu20.top/index.php/2020/07/13/guoneiwaizhuliuyunzhujipingtaiduibifenxiyongyujiashegerendew/)  
+文章三：[利用宝塔系统基于阿里云服务器架站](https://liuyu20.top/index.php/2020/07/19/liyongbaotaxitongjiyualiyunfuwuqijiazhan/)
 ****
 ## 七、云端架站1.（域名实践） 
 **网站域名:liuyu20.top  
@@ -140,17 +144,24 @@ wordfence的监控使我了解到我的网站的安全性能只达60%，如果�
 ![jetpack1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/jetpack1.png)   
 方法四：添加内链：  
 一共三篇文章，模仿微信公众号的底部菜单添加了内联，通过内链提醒用户还有其他文章，减少用户的动作，增加这系列文章的点击率。  
-![]()  
-![]()  
-![]()  
-![]()
+![neilian](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/neilian.png)  
+![neilian1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/neilian1.png)  
+![neilian2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/neilian2.png)  
 ****
 ## 十四、用户研究成果及设计改进：方法A  
 ****
 ## 十五、用户研究成果及设计改进：方法B  
 ****
-## 十六、定制化  
-![]()
+## 十六、定制化
+1.插件Pingback可以自动评论，帮网站引流并插入内部链接。   
+![diy](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/diy.png)  
+![diy1](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/diy1.png)  
+
+2.插件Wenprise Pinyin Slug可以自动将标题转换成网页的链接，非常方便。   
+![diy2](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/diy2.png)     
+
+3.插件elementor可以轻松托拉拽编辑网页，为您节省宝贵时间。  
+![diy3](https://raw.githubusercontent.com/liuyu19/Web_operations/master/final/image/diy3.png)
 ****
 ## 加分项、使用https且开启多站点
 已完成：使用https且开启多站点
